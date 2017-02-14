@@ -5,4 +5,4 @@ Roadster Webpage Code
 
 ![alt tag](https://github.com/keshav1007/Roadster/blob/master/roadster_ss/testimonial.jpg)
 
-![alt tag](https://github.com/keshav1007/Roadster/blob/master/roadster_ss/endofpage.jpg)
+![alt tag](https://github.com/keshav1007/Roadster/blob/master/roadster_ss/endofpage.JPG)
